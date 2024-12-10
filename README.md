@@ -73,7 +73,7 @@ pip install -r requirements.txt
 
 ## Example
 
-Below is an example of the application in action:
+
 
 ![Example Screenshot](.walk_run_images/walk_run_interface.png)  
 *Prediction example or visualization.*
