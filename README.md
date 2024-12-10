@@ -75,7 +75,7 @@ pip install -r requirements.txt
 
 
 
-![Example Screenshot](.walk_run_images/walk_run_interface.png)  
+![App Screenshot](walk_run_images/walk_run_interface.png)
 *Prediction example or visualization.*
 
 ---
